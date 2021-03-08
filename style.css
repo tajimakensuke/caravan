@@ -1,4 +1,3 @@
-/*ブラウザがそれぞれ持っているcssをリセットするための記述*/
 * {
   margin: 0;
   padding: 0;
@@ -161,7 +160,6 @@ main {
 .instagram .sidebar-contents {
   display: flex;
   flex-wrap: wrap;
-  
 }
 .instagram-box {
   width: 110px;
